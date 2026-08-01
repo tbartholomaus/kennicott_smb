@@ -1,7 +1,11 @@
 # Downloaded/generated GIS data (re-creatable by kennicott_mass_balance.ipynb)
-rgi_data/
+data_downloads/
 kennicott_glacier_DEM_clip_UTM7N.tif
 kennicott_root_COP30_DEM_epsg32607.tif
+
+# Old/scratch files, macOS metadata
+junk/
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
